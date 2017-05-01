@@ -1,5 +1,5 @@
-# Q3_2ndPlotv1.py
-# ~/Documents/PYTHON/PyCODES/srcv1/ Q3_2ndPlotv1.py
+# 2ndPlot.py
+
 
 # NB: parameter variation L14, L65
 
