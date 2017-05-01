@@ -1,4 +1,3 @@
-% Q2.m
 
 % clc;clear all;close all;
 % parameter L9, L19
